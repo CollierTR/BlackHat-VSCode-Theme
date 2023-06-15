@@ -1,0 +1,21 @@
+{
+  "name": "blackhat",
+  "displayName": "BlackHat",
+  "description": "BlackHat hacker theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BlackHat",
+        "uiTheme": "hc-black",
+        "path": "./themes/BlackHat-color-theme.json"
+      }
+    ]
+  }
+}
